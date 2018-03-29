@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,QACE,WACA,SAAW,CACX,gBACE,qBACA,UAAe","file":"static/css/main.15a464ff.css","sourcesContent":["#main p {\n  color: #00ff00;\n  width: 97%; }\n  #main p .redbox {\n    background-color: #ff0000;\n    color: #000000; }\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
